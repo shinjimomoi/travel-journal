@@ -1,0 +1,53 @@
+body {
+  padding-bottom: 120px;
+}
+
+* {
+  margin: 0;
+  /* padding: 0; */
+}
+
+h1, h2, h3, h4 {
+  margin: 0 0 1.2rem 0;
+}
+
+h1 {
+  font-size: 2.2rem;
+}
+
+p {
+  margin: 0 0 1rem 0;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+ul,
+li,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: underline;;
+  transition: all 0.3s;
+  color: #FF5666;
+}
+
+button {
+  border: none;
+  outline: none
+}
+
+.container {
+  width: 70vw;
+  margin: 10vh auto;
+}
+
+@media screen and (max-width: 800px) {
+  .container {
+    width: 100vw;
+    margin: auto;
+  }
+}
