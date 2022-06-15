@@ -1,18 +1,20 @@
 .navbar {
-  background-color: #232331;
+  background-color: #232328;
   color: #efefef;
   display: flex;
-  height: 80px;
+  height: 75px;
   justify-content: center;
   padding: 1.8rem 0 0 0;
 }
 
 .navbar h1 {
-  font-weight: lighter;
+  font-weight: bolder;
+  color: #fe5566;
 }
 
 @media screen and (max-width: 800px) {
   .navbar h1 {
     font-size: 1.4rem;
+    font-weight: bolder;
   }
 }

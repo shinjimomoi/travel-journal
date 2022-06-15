@@ -1,8 +1,9 @@
 import './css/App.css';
 import './css/card.css';
+import './css/hero.css';
 import './css/navbar.css';
-import Navbar from './components/Navbar'
 import Card from './components/Card'
+import Hero from './components/Hero'
 import data from './data'
 
 
@@ -17,7 +18,9 @@ function App() {
   })
   return (
     <div>
-        <Navbar
+        {/* <Navbar
+          /> */}
+        <Hero
           />
         <section>
             {cards}

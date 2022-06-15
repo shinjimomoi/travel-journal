@@ -19,7 +19,7 @@
 }
 
 .card i {
-  color: #FF5666;
+  color: #fe5566;
 }
 
 .card--date {
@@ -28,7 +28,7 @@
 
 @media screen and (max-width: 800px) {
   .card {
-    flex-direction: column;
+    flex-direction: column-reverse;
     align-items: unset;
   }
 
