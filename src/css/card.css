@@ -10,12 +10,13 @@
   min-width: 30vw;
   height: 40vh;
   object-fit: cover;
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.2);
 }
 
 .card-stats {
   display: flex;
   flex-direction: column;
-  padding: 24px;
+  padding: 40px;
 }
 
 .card i {
