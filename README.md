@@ -1,5 +1,5 @@
 <h1>Travel Journal</h1>
-<h2>Project created with React. </h2> 
+<h2>Travel Journal with my trips over the years - created with React. </h2> 
   
 ![travel-journal](https://user-images.githubusercontent.com/100399727/173833302-861d0e56-2eb3-41ee-9e63-b1df3be10256.png)
 
